@@ -1,0 +1,5 @@
+{'Var1': 0, 'Var2': 0, 'Var3': 0, 'Var4': 0}
+{'Var1': 0.1, 'Var2': 0.1, 'Var3': 0.1, 'Var4': 0.1}
+{('Var1', 'Var2'): -0.16852348972245856, ('Var1', 'Var3'): 0.6142925454539563, ('Var2', 'Var4'): -0.8215475831342631, ('Var3', 'Var4'): 0.2634926409268643, ('Var4', 'Var2'): 0.2638752874585495, ('Var4', 'Var3'): -0.8750661251858634}
+{('Var1', 'Var2'): <ufunc 'absolute'>, ('Var1', 'Var3'): <ufunc 'absolute'>, ('Var2', 'Var4'): <ufunc 'absolute'>, ('Var3', 'Var4'): <ufunc 'cos'>, ('Var4', 'Var2'): <ufunc 'tanh'>, ('Var4', 'Var3'): <ufunc 'tanh'>}
+{('Var1', 'Var2'): 1, ('Var1', 'Var3'): 2, ('Var2', 'Var4'): 2, ('Var3', 'Var4'): 1, ('Var4', 'Var2'): 2, ('Var4', 'Var3'): 1}

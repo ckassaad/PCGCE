@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+joblib
+
+graphviz
+networkx (tcdf)
+matplotlib
+torch
+
+cython
+
+install tigramite: python setup.py install

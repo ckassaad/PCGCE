@@ -1,0 +1,6 @@
+Var1 Var2
+Var1 Var3
+Var2 Var4
+Var3 Var4
+Var4 Var2
+Var4 Var3

@@ -1,0 +1,5 @@
+{'Var1': 0, 'Var3': 0, 'Var2': 0}
+{'Var1': 0.1, 'Var3': 0.1, 'Var2': 0.1}
+{('Var1', 'Var3'): 0.300075776081673, ('Var2', 'Var3'): -0.3179530692959345}
+{('Var1', 'Var3'): <ufunc 'absolute'>, ('Var2', 'Var3'): <ufunc 'tanh'>}
+{('Var1', 'Var3'): 1, ('Var2', 'Var3'): 2}

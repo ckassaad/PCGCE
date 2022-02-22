@@ -1,0 +1,9 @@
+Temporal Precision: 
+0.35 +- 0.45
+Temporal Recall: 
+0.0375 +- 0.057282196186948006
+Temporal F-Score: 
+0.06621947024423805 +- 0.09792862156054023
+
+
+Computational Time: 9.333038640022277 +- 0.1167021940257418
