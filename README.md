@@ -1,4 +1,4 @@
-# PCTCE
+# PCGCE
 
 
 Package to test causal discovery algorithm on simulated and real data 
